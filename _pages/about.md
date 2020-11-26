@@ -14,13 +14,13 @@ I am currently a senior student majoring in computer science at University of El
 
 ## Education Experience
 
-<img align="left" src="https://www.logoids.com/upload/image/201711/15110529587616072.jpg" width="18%" height="18%">
+<img align="left" src="images/uestc.jpg" width="20%" height="20%">
 
 ### University of Electronic Science and Technology of China, Chengdu, China
-<font size=2>
-August 2017 - Now
+<font size=2>August 2017 - Now
 
 B.E. in Computer Science
+
 GPA: 91.06, rank 4/212.
 </font>
 
