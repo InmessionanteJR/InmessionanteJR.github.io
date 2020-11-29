@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-This is my [CV](files/CV.pdf)(often not up-to-date).
+This is my [CV](../..files/CV.pdf) (often not up-to-date).
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
