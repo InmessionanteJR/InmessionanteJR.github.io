@@ -19,11 +19,9 @@ I am currently a senior student majoring in computer science at University of El
 
 <!-- ### University of Electronic Science and Technology of China -->
 ### University of Electronic Science and Technology of China, Chengdu, China
-<font size=2><br/>August 2017 - Now </br></font>
-
-<font size=2><br/>B.E. in Computer Science </br></font>
-
-<font size=2><br/>GPA: 91.06, rank 4/212. </br></font>
+<font size=2><br/>August 2017 - Now </font>
+<font size=2><br/>B.E. in Computer Science </font>
+<font size=2><br/>GPA: 91.06, rank 4/212. </font>
 
 
 ## Professional Activities
