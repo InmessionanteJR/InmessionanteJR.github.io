@@ -9,7 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-This is my [CV](../../files/CV.pdf) (often not up-to-date).
+This is my CV (often not up-to-date).
+
+<object data="../files/CV.pdf" type="application/pdf" width="100%" height="100%">
+<p><b>返回内容</b>: 该浏览器不支持PDFs.请点击查看: 
+<a href="../files/CV.pdf">CV</a>.</p>
+</object>
 
 <!-- Education
 ======
